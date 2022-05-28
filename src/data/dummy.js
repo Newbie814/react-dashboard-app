@@ -98,46 +98,64 @@ const gridEmployeeCountry = (props) => (
 export const EditorData = () => (
   <div>
     <h3>
-      Try React React has been designed from the start for gradual adoption, and
-      you can use as little or as much React as you need. Whether you want to
-      get a taste of React, add some interactivity to a simple HTML page, or
-      start a complex React-powered app, the links in this section will help you
-      get started. Online Playgrounds If you’re interested in playing around
-      with React, you can use an online code playground. Try a Hello World
-      template on CodePen, CodeSandbox, or Stackblitz. If you prefer to use your
-      own text editor, you can also download this HTML file, edit it, and open
-      it from the local filesystem in your browser. It does a slow runtime code
-      transformation, so we’d only recommend using this for simple demos. Add
-      React to a Website You can add React to an HTML page in one minute. You
-      can then either gradually expand its presence, or keep it contained to a
-      few dynamic widgets. Create a New React App When starting a React project,
-      a simple HTML page with script tags might still be the best option. It
-      only takes a minute to set up! As your application grows, you might want
-      to consider a more integrated setup. There are several JavaScript
-      toolchains we recommend for larger applications. Each of them can work
-      with little to no configuration and lets you take full advantage of the
-      rich React ecosystem. Learn how. Learn React People come to React from
-      different backgrounds and with different learning styles. Whether you
-      prefer a more theoretical or a practical approach, we hope you’ll find
-      this section helpful. If you prefer to learn by doing, start with our
-      practical tutorial. If you prefer to learn concepts step by step, start
-      with our guide to main concepts. Like any unfamiliar technology, React
-      does have a learning curve. With practice and some patience, you will get
-      the hang of it. First Examples The React homepage contains a few small
-      React examples with a live editor. Even if you don’t know anything about
-      React yet, try changing their code and see how it affects the result.
-      React for Beginners If you feel that the React documentation goes at a
-      faster pace than you’re comfortable with, check out this overview of React
-      by Tania Rascia. It introduces the most important React concepts in a
-      detailed, beginner-friendly way. Once you’re done, give the documentation
-      another try! React for Designers If you’re coming from a design
-      background, these resources are a great place to get started. JavaScript
-      Resources The React documentation assumes some familiarity with
-      programming in the JavaScript language. You don’t have to be an expert,
-      but it’s harder to learn both React and JavaScript at the same time. We
-      recommend going through this JavaScript overview to check your knowledge
-      level. It will take you between 30 minutes and an hour but you will feel
-      more confident learning React.
+      "―But, but, the math doesn‘t add up." Of course, it doesn't. You're
+      arrogant enough to assume you can even comprehend the equation. Compound
+      that with a different equation in every human, one that is also constantly
+      changing, one that has millions of variables, of which we know only a
+      minuscule fraction, an equation whose variables change in reaction to each
+      change in every other variable in different ways and amounts from person
+      to person and day to day. Every single diet that has ever been compared to
+      another diet where calories, and to a lesser extent protein, have been
+      controlled has verified and validated the value of CICO. The math
+      absolutely adds up. ―The math‖ holds up. Your simple and arrogant
+      understanding of the equation is wrong. Your version is wrong. Whatever
+      food item you want to demonize or pedestalize, I will show you millions of
+      people that falsify your hypothesis. (Hey Gary!) You failed to acknowledge
+      what we don't know. If you don't understand a complex calculus problem
+      worked out on a chalkboard, neither calculus nor the answer is invalidated
+      because you don't understand the rest of the problem. To be truly
+      effective for people, you can't just dismiss something we know because we
+      don't understand all of it. She who survives wins – until the environment
+      drastically changes. Who survives in these scenarios? Cavewoman A –
+      biologically driven by her hunger/satiety/environmental cue system to eat.
+      Cavewoman B – only eats if she feels like it. Well, cavewoman B didn't
+      spread her seed. While cavewoman A was seeking out food, B was busy
+      pondering whether or not she should be living and eating like a monkey.
+      She thinks she hasn't evolved to sleep in a cave or walk on two feet. She
+      died. Looks like we have established a biological drive towards food.
+      Cavewoman A – has a sweet tooth. Loves fat. Cavewoman B – loves Kale.
+      Cavewoman B is dead. A‘s drive for sweet and fat also delivered a lot of
+      calories. She was able to survive when the tribe couldn't find food. Kale
+      killed B. We have established a biological basis for a drive towards
+      calories, as well as an ingrained reward system around sugar and fat.
+      Cavewoman A – Completely depends on her biology to eat. Stops when she‘s
+      full. Eats when she‘s hungry. Cavewoman B – has some control over her
+      eating behavior. Cavewoman A is dead. Cavewoman B had enough control to
+      realize she might not find food tomorrow so she stuffed herself today. Or,
+      she paid attention to environmental, visual, and social cues to realize
+      winter was coming so she ate just enough over many days to keep going
+      while rationing food to last for the colder months. I have now established
+      a survival basis for some control over eating. That eradicates the notion
+      that we have either complete control or no control. Evolutionary
+      underpinnings and individual variation Let‘s dust that trusty Cavewoman
+      Filter out and give this bad boy a run through to see who survives this
+      round of ―na na a boo boo, my genes survived and yours are poo poo‖
+      Cavewoman A – Most, or all, of the calories she expends through activity
+      are added to her TDEE. Cavewoman B – Her body has a multi-system ability
+      to regulate EE in the presence of food scarcity. Cavewoman A burns 1000
+      extra calories looking for food, finds almost none. Her food drives have
+      heightened, along with her caloric needs to get back to baseline. Day 2.
+      Famished and obsessive, Cavewoman A burns 1400 extra calories today in
+      feverish pursuit of food. She finds only a few berries. Day 5, Still no
+      sight of food. Cavewoman A only burns 500 extra calories today because she
+      is running out of energy. Day 6... Well, you can see where I'm going with
+      this. In the meantime, Cavewoman B is sitting in her cave rocking all of
+      her babies while thinking, ―If only A had one of these cool systems that
+      was able to keep her energy expenditure in a tight window independent of
+      activity expenditures while searching for food. I mean, really, doesn't
+      she realize food is fricking hard to come by sometimes?!‖ I have now
+      established and evolutionary basis for a tightly regulated energy
+      expenditure system.
     </h3>
   </div>
 );
