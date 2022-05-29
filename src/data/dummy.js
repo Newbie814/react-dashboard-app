@@ -32,14 +32,6 @@ import { TiTick } from 'react-icons/ti';
 import { GiLouvrePyramid } from 'react-icons/gi';
 import { GrLocation } from 'react-icons/gr';
 
-// import product1 from './product1.jpg';
-// import product2 from './product2.jpg';
-// import product3 from './product3.jpg';
-// import product4 from './product4.jpg';
-// import product5 from './product5.jpg';
-// import product6 from './product6.jpg';
-// import product7 from './product7.jpg';
-
 export const avatar =
   'https://res.cloudinary.com/dylvkdabj/image/upload/v1653801158/website%20pics%20family/avatar_e2irxb.jpg';
 export const avatar2 =
@@ -64,7 +56,7 @@ export const product6 =
 export const product7 =
   'https://res.cloudinary.com/dylvkdabj/image/upload/v1653802556/website%20pics%20family/ipad_gyazjd.jpg';
 export const product8 =
-  'https://res.cloudinary.com/dylvkdabj/image/upload/v1652292244/website%20pics%20family/pexels-elle-hughes-2647936_e3vupm.jpg';
+  'https://res.cloudinary.com/dylvkdabj/image/upload/v1653864453/website%20pics%20family/thor-hammer_qloppk.jpg';
 
 export const gridOrderImage = (props) => (
   <div>

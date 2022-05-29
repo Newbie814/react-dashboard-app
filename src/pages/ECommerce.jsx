@@ -375,11 +375,14 @@ const Ecommerce = () => {
           <div className='mt-10'>
             <img className='md:w-96 h-50 ' src={product8} alt='' />
             <div className='mt-8'>
-              <p className='font-semibold text-lg'>React 18 coming soon!</p>
-              <p className='text-gray-400 '>By Johnathan Doe</p>
+              <p className='font-semibold text-lg'>
+                Get ready for Thor: Love and Thunder!
+              </p>
+              <p className='text-gray-400 '>By Philip Colson</p>
               <p className='mt-8 text-sm text-gray-400'>
-                This will be the small description for the news you have shown
-                here. There could be some great info.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Doloribus obcaecati deleniti error nemo et earum vero minus
+                optio, exercitationem provident sunt!
               </p>
               <div className='mt-3'>
                 <Button
