@@ -32,6 +32,9 @@ export const ContextProvider = ({ children }) => {
   const handleClick = (clicked) =>
     setIsClicked({ ...initialState, [clicked]: true });
 
+  const handleClickClose = (clicked) =>
+    setIsClicked({ ...initialState, [clicked]: false });
+
   return (
     // eslint-disable-next-line react/jsx-no-constructed-context-values
     <StateContext.Provider
@@ -52,6 +55,7 @@ export const ContextProvider = ({ children }) => {
         setColor,
         themeSettings,
         setThemeSettings,
+        handleClickClose,
       }}
     >
       {children}
