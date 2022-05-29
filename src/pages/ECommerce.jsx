@@ -17,7 +17,7 @@ import {
   recentTransactions,
 } from '../data/dummy';
 import { useStateContext } from '../contexts/ContextProvider';
-import product9 from '../data/product9.jpg';
+import { product8 } from '../data/dummy';
 
 const DropDown = ({ currentMode }) => (
   <div className='w-28 border-1 border-color px-2 py-1 rounded-md'>
@@ -373,7 +373,7 @@ const Ecommerce = () => {
             </button>
           </div>
           <div className='mt-10'>
-            <img className='md:w-96 h-50 ' src={product9} alt='' />
+            <img className='md:w-96 h-50 ' src={product8} alt='' />
             <div className='mt-8'>
               <p className='font-semibold text-lg'>React 18 coming soon!</p>
               <p className='text-gray-400 '>By Johnathan Doe</p>

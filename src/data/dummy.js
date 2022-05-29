@@ -31,17 +31,40 @@ import { HiOutlineRefresh } from 'react-icons/hi';
 import { TiTick } from 'react-icons/ti';
 import { GiLouvrePyramid } from 'react-icons/gi';
 import { GrLocation } from 'react-icons/gr';
-import avatar from './avatar.jpg';
-import avatar2 from './avatar2.jpg';
-import avatar3 from './avatar3.jpg';
-import avatar4 from './avatar4.jpg';
-import product1 from './product1.jpg';
-import product2 from './product2.jpg';
-import product3 from './product3.jpg';
-import product4 from './product4.jpg';
-import product5 from './product5.jpg';
-import product6 from './product6.jpg';
-import product7 from './product7.jpg';
+
+// import product1 from './product1.jpg';
+// import product2 from './product2.jpg';
+// import product3 from './product3.jpg';
+// import product4 from './product4.jpg';
+// import product5 from './product5.jpg';
+// import product6 from './product6.jpg';
+// import product7 from './product7.jpg';
+
+export const avatar =
+  'https://res.cloudinary.com/dylvkdabj/image/upload/v1653801158/website%20pics%20family/avatar_e2irxb.jpg';
+export const avatar2 =
+  'https://res.cloudinary.com/dylvkdabj/image/upload/v1653801160/website%20pics%20family/avatar2_vcuerz.jpg';
+export const avatar3 =
+  'https://res.cloudinary.com/dylvkdabj/image/upload/v1653801162/website%20pics%20family/avatar3_dravuw.jpg';
+export const avatar4 =
+  'https://res.cloudinary.com/dylvkdabj/image/upload/v1653800720/website%20pics%20family/avatar4_ihwyfq.jpg';
+
+export const product1 =
+  'https://res.cloudinary.com/dylvkdabj/image/upload/v1653802407/website%20pics%20family/camera_qctntx.jpg';
+export const product2 =
+  'https://res.cloudinary.com/dylvkdabj/image/upload/v1653802412/website%20pics%20family/reel_nbinkq.jpg';
+export const product3 =
+  'https://res.cloudinary.com/dylvkdabj/image/upload/v1653802411/website%20pics%20family/apple-watch_t1p6ew.jpg';
+export const product4 =
+  'https://res.cloudinary.com/dylvkdabj/image/upload/v1653802411/website%20pics%20family/toy_o7dnqg.jpg';
+export const product5 =
+  'https://res.cloudinary.com/dylvkdabj/image/upload/v1653802408/website%20pics%20family/iphone_gon7sy.jpg';
+export const product6 =
+  'https://res.cloudinary.com/dylvkdabj/image/upload/v1653802409/website%20pics%20family/football_zerzgo.jpg';
+export const product7 =
+  'https://res.cloudinary.com/dylvkdabj/image/upload/v1653802556/website%20pics%20family/ipad_gyazjd.jpg';
+export const product8 =
+  'https://res.cloudinary.com/dylvkdabj/image/upload/v1652292244/website%20pics%20family/pexels-elle-hughes-2647936_e3vupm.jpg';
 
 export const gridOrderImage = (props) => (
   <div>
